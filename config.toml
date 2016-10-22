@@ -30,7 +30,7 @@ paginate = 10
     email = "steph@satrdays.org"
 
     about_us = "<p>satRdays are free/cheap accessible R conferences being organised by the community for the community.</p>"
-    copyright = "Website developed with Hugo by the SatRdays team. It is under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)."
+    copyright = "Website developed using Hugo by the SatRdays team. It is under <a href=\"https://creativecommons.org/licenses/by/4.0/\" title=\"CC BY 4.0\">CC BY 4.0</a>."
     date_format = "2016-01-02"
     logo = "img/logo.png"
     address = """<p>
