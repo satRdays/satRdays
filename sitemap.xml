@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://satrdays.org/satRdays-devsite/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://satrdays.org/satRdays-devsite/blog/2015/06/24/creating-a-new-theme/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://satrdays.org/satRdays-devsite/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://satrdays.org/satRdays-devsite/faq/</loc>
+  </url>
+  
+</urlset>
