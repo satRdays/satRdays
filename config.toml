@@ -113,3 +113,11 @@ paginate = 10
     enable = true
     title = "From our blog"
     subtitle = "Recent posts and news about satRdays"
+
+[params.social]
+    enable = true
+    # All social links are defined in their own files. You can find example items
+    # at 'exampleSite/data/social'.
+    # For more informtion take a look at the README.
+    title = "Talk to us"
+    subtitle = ""
