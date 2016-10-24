@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://satrdays.org/satRdays-devsite/</loc>
+    <loc>http://satrdays.org/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://satrdays.org/satRdays-devsite/blog/2015/06/24/creating-a-new-theme/</loc>
+    <loc>http://satrdays.org/blog/2015/06/24/creating-a-new-theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://satrdays.org/satRdays-devsite/contact/</loc>
+    <loc>http://satrdays.org/contact/</loc>
   </url>
   
   <url>
-    <loc>http://satrdays.org/satRdays-devsite/faq/</loc>
+    <loc>http://satrdays.org/faq/</loc>
   </url>
   
 </urlset>
