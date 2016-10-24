@@ -91,7 +91,7 @@ paginate = 10
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
     title = "Why we do satRdays"
-    subtitle = "Hear are some of the things people have said about satRdays that make it all worthwhile!"
+    subtitle = "Here are some of the things people have said about satRdays that make it all worthwhile!"
 
 [params.see_more]
     enable = true
