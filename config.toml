@@ -1,4 +1,4 @@
-baseurl = "https://satrdays.netlify.com"
+baseurl = "https://satrdays.netlify.com/"
 title = "satRdays"
 theme = "hugo-universal-theme"
 languageCode = "en-gb"
