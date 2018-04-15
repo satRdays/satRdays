@@ -61,7 +61,7 @@ paginate = 10
     name = "Events"
     url  = "/events/"
     weight = 4
-	
+
 [[params.menu]]
     name = "Get involved"
     url  = "/involved/"
@@ -98,7 +98,7 @@ paginate = 10
     icon = "fa fa-calendar"
     title = "See what events are happening!"
     subtitle = "Find out what satRdays events are coming up"
-    link_url = "#"
+    link_url = "events"
     link_text = "satRdays"
 
 [params.clients]
