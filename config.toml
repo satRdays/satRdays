@@ -27,7 +27,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "steph@satrdays.org"
+    email = "stephlocke@satrdays.org"
 
     about_us = "<p>satRdays are free/cheap accessible R conferences being organised by the community for the community.</p>"
     copyright = "Website developed using Hugo by the SatRdays team. It is under <a href=\"https://creativecommons.org/licenses/by/4.0/\" title=\"CC BY 4.0\">CC BY 4.0</a>."
