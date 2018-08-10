@@ -3556,3 +3556,20 @@ a.list-group-item.active > .badge,
   left: 15px;
   right: 15px;
 }
+
+.spoiler {
+  visibility: hidden;
+}
+
+.spoiler::before {
+  visibility: visible;
+  content: "Spoiler alert! Hover me to see the answer."
+}
+
+.spoiler:hover {
+  visibility: visible;
+}
+
+.spoiler:hover::before {
+  display: none;
+}
