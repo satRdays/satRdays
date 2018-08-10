@@ -96,9 +96,9 @@ https://stackoverflow.com/questions/51020181/r-markdown-hide-spoiler-text-hover-
 
 <p class="spoiler">Fantastic, why don't you do it yourself? You can head <a href="https://github.com/satRdays/eventscalendar">here</a> to select a date that doesn't clash with any other events, over <a href="https://github.com/satRdays/satRday_site_template">here</a> to get a pre-built template for a website, and we've also got a slack full of people all over the world to help you out over <a href="">here</a>.</p>
 
-### That's daft and terrifying
+### That's way too much and/or terrifying
 
-<p class="spoiler">I understand, putting on  a conference isn't for everyone. If you're interested in attending an event though, have a look <a href="https://github.com/satRdays/eventscalendar">here</a> to see if one is coming up near you (or even far away!). If you're even just a little curious about putting one on though, help is at hand. We`re working hard to make putting on these conferences easier, starting with <a href="https://github.com/satRdays/satRday_site_template">templating the website</a> to get you off the ground as quickly and simply as possible. We've also got a <a href="">slack group</a> filled with organisers of satRday and other user events from all over the world.</p>
+<p class="spoiler">I understand, not everybody wants to put on a conference. If you're interested in attending an event though, have a look <a href="https://github.com/satRdays/eventscalendar">here</a> to see if one is coming up near you (or even far away!). If you're even just a little curious about putting one on though, help is at hand. We`re working hard to make putting on these conferences easier, starting with <a href="https://github.com/satRdays/satRday_site_template">templating the website</a> to get you off the ground as quickly and simply as possible. We've also got a <a href="">slack group</a> filled with organisers of satRday and other user events from all over the world.</p>
 
  [^1]: for footage of my sufficiently serious topic please [click here](https://www.youtube.com/watch?v=afVks_er01s&index=21&list=PLUBl0DoLa5SDsOetNga5pt4uo6YOyKVWn)
 
