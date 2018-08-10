@@ -90,8 +90,6 @@ So far I think we seem to be doing OK. Some room for improvements to be made, bu
 
 What was your response to the list? Think about it for a second, then go to the relevant section.
 
-https://stackoverflow.com/questions/51020181/r-markdown-hide-spoiler-text-hover-over-text-element
-
 ### That's pretty straightforward
 
 <p class="spoiler">Fantastic, why don't you do it yourself? You can head <a href="https://github.com/satRdays/eventscalendar">here</a> to select a date that doesn't clash with any other events, over <a href="https://github.com/satRdays/satRday_site_template">here</a> to get a pre-built template for a website, and we've also got a slack full of people all over the world to help you out over <a href="">here</a>.</p>
