@@ -31,7 +31,7 @@ paginate = 10
 
     about_us = "<p>satRdays are free/cheap accessible R conferences being organised by the community for the community.</p>"
     copyright = "Website developed using Hugo by the SatRdays team. It is under <a href=\"https://creativecommons.org/licenses/by/4.0/\" title=\"CC BY 4.0\">CC BY 4.0</a>."
-    date_format = "2016-01-02"
+    date_format = "2006-01-02"
     logo = "img/logo.png"
     address = """<p>
       </p>
