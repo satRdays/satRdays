@@ -1,8 +1,8 @@
 +++
 title = "Putting on Cardiff satRday"
 date = "2018-08-10"
-tags = ["ipsum"]
-categories = ["lorem"]
+tags = ["cardiff"]
+categories = ["conference"]
 banner = ""
 +++
 
@@ -82,7 +82,9 @@ We had a whole range of topics, from leveraging Apache Airflow to deploy R model
 
 I had a whole tonne of fun, and I think some others did too. So far 20% of the attendees have sent their feedback form. If you're part of the remaining 80% reading this who haven't yet please check your inbox! It's not a long form and really helps us learn what we can do better next time.
 
-[Insert ratings chart here]
+![Ratings Chart](/blog/conf_rating_resp.PNG)
+
+> Where 1 is "A waste of a sunny day" and 5 is "An excellent development opportunity"
 
 So far I think we seem to be doing OK. Some room for improvements to be made, but generally I think pretty positive. I'll go into some more detail next time about the responses and what we're looking to improve.
 
@@ -92,11 +94,11 @@ What was your response to the list? Think about it for a second, then go to the 
 
 ### That's pretty straightforward
 
-<p class="spoiler">Fantastic, why don't you do it yourself? You can head <a href="https://github.com/satRdays/eventscalendar">here</a> to select a date that doesn't clash with any other events, over <a href="https://github.com/satRdays/satRday_site_template">here</a> to get a pre-built template for a website, and we've also got a slack full of people all over the world to help you out over <a href="">here</a>.</p>
+<p class="spoiler">Fantastic, why don't you do it yourself? You can head <a href="https://github.com/satRdays/eventscalendar">here</a> to select a date that doesn't clash with any other events, over <a href="https://github.com/satRdays/satRday_site_template">here</a> to get a pre-built template for a website, and we've also got a slack full of people all over the world to help you out over <a href="https://join.slack.com/t/rusergroups/shared_invite/enQtMjEyNDA3MzcyMjczLTE3NWEzNjQ3MjZiMWM0OGE2ZWFiZDliNTY4NTJjYWY1NGNjMmNlNDUzNzkzOTZmMDBjYjRiZjFhNjk4MDY0ZGY">here</a>.</p>
 
 ### That's way too much and/or terrifying
 
-<p class="spoiler">I understand, not everybody wants to put on a conference. If you're interested in attending an event though, have a look <a href="https://github.com/satRdays/eventscalendar">here</a> to see if one is coming up near you (or even far away!). If you're even just a little curious about putting one on though, help is at hand. We`re working hard to make putting on these conferences easier, starting with <a href="https://github.com/satRdays/satRday_site_template">templating the website</a> to get you off the ground as quickly and simply as possible. We've also got a <a href="">slack group</a> filled with organisers of satRday and other user events from all over the world.</p>
+<p class="spoiler">I understand, not everybody wants to put on a conference. If you're interested in attending an event though, have a look <a href="https://github.com/satRdays/eventscalendar">here</a> to see if one is coming up near you (or even far away!). If you're even just a little curious about putting one on though, help is at hand. We`re working hard to make putting on these conferences easier, starting with <a href="https://github.com/satRdays/satRday_site_template">templating the website</a> to get you off the ground as quickly and simply as possible. We've also got a <a href="https://join.slack.com/t/rusergroups/shared_invite/enQtMjEyNDA3MzcyMjczLTE3NWEzNjQ3MjZiMWM0OGE2ZWFiZDliNTY4NTJjYWY1NGNjMmNlNDUzNzkzOTZmMDBjYjRiZjFhNjk4MDY0ZGY">slack group</a> filled with organisers of satRday and other user events from all over the world.</p>
 
  [^1]: for footage of my sufficiently serious topic please [click here](https://www.youtube.com/watch?v=afVks_er01s&index=21&list=PLUBl0DoLa5SDsOetNga5pt4uo6YOyKVWn)
 
