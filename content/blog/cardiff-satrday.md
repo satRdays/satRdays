@@ -4,6 +4,7 @@ date = "2018-08-10"
 tags = ["cardiff"]
 categories = ["conference"]
 banner = "/blog/conf_rating_resp.PNG"
+author = "David Parr"
 +++
 
 ## Beginnings
