@@ -3,7 +3,7 @@ title = "Putting on Cardiff satRday"
 date = "2018-08-10"
 tags = ["cardiff"]
 categories = ["conference"]
-banner = ""
+banner = "/blog/conf_rating_resp.PNG"
 +++
 
 ## Beginnings
