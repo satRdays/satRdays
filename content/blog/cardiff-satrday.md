@@ -31,7 +31,7 @@ So we picked a date, found a venue (thanks [Paul](https://twitter.com/brennanpca
     + two lecture theatres with projection and mic system
     + special requirements room(s) (delegates requirements included recent mothers, religious observance, social support)
 3. website
-4. bank account
+4. bank account for the gorup
     + with online payment and card
 5. PayPal account for the group
 6. Gmail account for the group
@@ -69,7 +69,7 @@ So we picked a date, found a venue (thanks [Paul](https://twitter.com/brennanpca
 27. 'extra' events
     + dinner plans the night before to welcome new speakers
     + plans on where to take anyone interested in hanging out at the end of the day 
-28. Feedback form for attendees
+28. feedback form for attendees
 
 This is not a 'mandatory' or 'complete' list, and not ordered, but hopefully relatively broad. Some of these are obvious, some maybe less so.
 
