@@ -9,7 +9,7 @@ author = "David Parr"
 
 ## Beginnings
 
-satRday Cardiff started for my most of my friends in January 2018. At the first meeting of the year for the [caRdiff R User Group], I suggested to the 'regulars' that we should run a satRday in Cardiff within six months.
+satRday Cardiff started for my most of my friends in January 2018. At the first meeting of the year for the [caRdiff R User Group](https://www.meetup.com/Cardiff-R-User-Group/), I suggested to the 'regulars' that we should run a satRday in Cardiff within six months.
 
 satRday Cardiff started for me in [Budapest in September in 2016](http://budapest.satrdays.org/). [Steph](https://twitter.com/TheStephLocke) had successfully nudged me into not only going to the first ever satRday at nearly the last minute, but giving a talk to boot! I picked a "sufficiently serious topic"&trade; [^1], squashed at least a few of my bugs, slid out my slides, packed my bags and got on the plane within two weeks. I had never been to a programming conference before, and had an absolute blast for the whole weekend. The Budapest team secured some amazing content, a great location, and even better made me (and I think most people there) really welcome.
 
