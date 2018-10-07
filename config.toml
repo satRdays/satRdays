@@ -42,27 +42,28 @@ paginate = 10
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
 
-[[params.menu]]
+[menu]
+[[menu.main]]
     name = "Home"
     url  = "/"
     weight = 1
 
-[[params.menu]]
+[[menu.main]]
     name = "Blog"
     url  = "/blog/"
     weight = 2
 
-[[params.menu]]
+[[menu.main]]
     name = "FAQ"
     url  = "/faq/"
     weight = 3
 
-[[params.menu]]
+[[menu.main]]
     name = "Events"
     url  = "/events/"
     weight = 4
 
-[[params.menu]]
+[[menu.main]]
     name = "Get involved"
     url  = "/involved/"
     weight = 5
@@ -123,10 +124,16 @@ paginate = 10
     subtitle = ""
 
 [languages]
-  [languages.en]
+    [languages.en]
     title = "satRdays"
     weight = 1
-  [languages.es]
+    [languages.es]
     weight = 2
     [languages.es.params]
-      about_us = "<p>SatRdays son conferencias R / accesibles accesibles y baratas que está organizando la comunidad para la comunidad.</p>"
+        about_us = "<p>SatRdays son conferencias R / accesibles accesibles y baratas que está organizando la comunidad para la comunidad.</p>"
+        [languages.es.params.clients]
+        enable = true
+        title = "Nuestros patrocinadores globales"
+        [languages.es.params.testimonials]
+        enable=true
+        title = "Por qué hacemos los satRdays"
