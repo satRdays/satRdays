@@ -121,3 +121,12 @@ paginate = 10
     # For more informtion take a look at the README.
     title = "Talk to us"
     subtitle = ""
+
+[languages]
+  [languages.en]
+    title = "satRdays"
+    weight = 1
+  [languages.es]
+    weight = 2
+    [languages.es.params]
+      about_us = "<p>SatRdays son conferencias R / accesibles accesibles y baratas que está organizando la comunidad para la comunidad.</p>"
