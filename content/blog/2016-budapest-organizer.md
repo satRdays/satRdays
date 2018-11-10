@@ -21,7 +21,7 @@ I’ve started the actual first steps (looking for venue, picking the date etc) 
 
 For example, I did not even think about how many hours will I spend with writing raw HTML:
 
-https://twitter.com/daroczig/status/777903836715331584
+{{< tweet 777903836715331584 >}}
 
 I was lucky to have Denes Tóth (co-organizer of the event) who volunteered for the project and took care most of the venue, catering, accommodation, and a whole bunch of other minor things that came up as we progressed with the organization. Also, I received many useful tips and connections from Bence Arato (organizer of BI and DW conferences in Hungary). Still, as the main organizer, I should have built a larger team right at the start and delegate better the tasks, because each task has so many sub-tasks, for example:
 
