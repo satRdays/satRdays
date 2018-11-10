@@ -95,7 +95,7 @@ The good news: all turned out to be absolutely OK and fun, no worries at all —
 
 ## And most importantly: Is it worth it?
 
-https://www.youtube.com/watch?v=a5WleYV3wmM
+{{< youtube a5WleYV3wmM >}}
 
 Every single minute (and penny) you spent on the project! As said in the first paragraph, you make good for the community, and the community is very grateful for your efforts. At the end of the (satR)day, although you feel physically exhausted, but it’s inspiring and rewarding to hear such feedbacks when reading the conference evaluation forms:
 
