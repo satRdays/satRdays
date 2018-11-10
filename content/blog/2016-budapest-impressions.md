@@ -3,6 +3,7 @@ title = "The start of satRdays"
 date = "2016-09-08"
 tags = ["budapest", "2016"]
 categories = ["conference"]
+banner = "/blog/2016-budapest/gabor.png"
 author = "Gergely Daróczi"
 +++
 
