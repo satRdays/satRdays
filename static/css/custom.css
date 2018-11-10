@@ -2169,6 +2169,9 @@ fieldset[disabled] .btn-template-primary.active {
 #blog-post #post-content {
   margin-bottom: 20px;
 }
+#blog-post #post-content img {
+    max-width: 100%;
+}
 #blog-post .comment {
   margin-bottom: 25px;
 }
@@ -3573,3 +3576,4 @@ a.list-group-item.active > .badge,
 .spoiler:hover::before {
   display: none;
 }
+
