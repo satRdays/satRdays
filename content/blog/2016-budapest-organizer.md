@@ -7,6 +7,8 @@ banner = "/blog/2016-budapest/tweet-gh-pages.png"
 author = "Gergely Daróczi"
 +++
 
+*This post was originally shared at [datascience.la](http://datascience.la/how-to-organize-a-satrday-conference-v0-1/).*
+
 It has been over 2 months since the [first satRday conference](http://budapest.satrdays.org/) ended and I shared some [quick impressions](/blog/2016/09/08/2016-budapest-impressions/) on that, where I also promised a follow-up post on my experiences as ending up being the main organizer of the event — this is what you are reading now. Although the idea was born at the EARL Boston conference last year, and I decided to take part in the project while living in Los Angeles — the conference took place in Budapest after all as logistics seemed to be easier there thanks to my closer relationship to the Hungarian R User Group.
 
 Anyway, the location does not matter that much: if you have the chance (and resources) to organize a satRday event anywhere around the world, please do — as it’s great and extremely useful for the local community, and it’s a very rewarding (although often also demanding) experience for yourself 🙂
