@@ -14,7 +14,7 @@ There was a pretty intense interest for the conference from the beginning: the r
 
 We sold around 130 tickets without sharing any details on the line-up of invited and contributed talks, although previously announcing our two keynote speakers (Gabor Csardi and Jeroen Ooms) kind of guaranteed a high quality for the conference. Fortunately, we received a good number of talk proposals and decided to have [25 speakers](http://budapest.satrdays.org/#keynotes) after all:
 
-![Speakers @ Budapest 2016](/blog/2016-budapest/speakers.png)
+![Speakers @ Budapest 2016](/blog/2016-budapest/speakers.jpg)
 
 It took a while to finalize the [conference program](http://budapest.satrdays.org/#schedule) and to figure out how we would fund an inexpensive event for so many attendees (as the number of registered attendees continued to increase by one or two every day), but things sorted out by the end of August and we received a good amount of financial help (covering 75% of the overall conference expenses) from our [sponsors](http://budapest.satrdays.org/#sponsors). Thank you!
 
