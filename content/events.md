@@ -3,7 +3,6 @@ title = "Events"
 +++
 
 # Future
-* [Belgrade 2018](https://belgrade2018.satrdays.org) - October 27th
 * [Washington DC 2018](https://dc2018.satrdays.org) - December 8th
 
 # Provisional
@@ -16,6 +15,7 @@ title = "Events"
 * Bratislava 2019 Q3
 
 # Past
+* [Belgrade 2018](https://belgrade2018.satrdays.org)
 * [Amsterdam 2018](https://amsterdam2018.satrdays.org)
 * [Cardiff 2018](http://cardiff2018.satrdays.org/)
 * [Capetown 2018](http://capetown2018.satrdays.org/)
