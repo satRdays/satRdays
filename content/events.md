@@ -4,9 +4,8 @@ title = "Events"
 
 # Future
 * [Washington DC 2018](https://dc2018.satrdays.org) - December 8th
-
+* [Santiago 2018](https://santiago2018.satrdays.org) - December 15th
 # Provisional
-* Santiago 2018 Q4
 * Newcastle 2019 Q1
 * Paris 2019 Q1
 * Fez, Morocco 2019 Q1
