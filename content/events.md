@@ -9,6 +9,7 @@ title = "Events"
 * Newcastle 2019 Q1
 * Paris 2019 Q1
 * Fez, Morocco 2019 Q1
+* Johannesburg 2019 Q2
 * Gdansk 2019 Q2
 * Berlin 2019 Q2
 * Bratislava 2019 Q3
