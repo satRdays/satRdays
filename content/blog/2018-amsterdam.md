@@ -88,20 +88,20 @@ learned new stuff.
 Talk to people, over Slack, email, phone or read in the [knowledgebase](https://knowledgebase.satrdays.org/).
 
 
-## PPicking a date
+## Picking a date
 Picking a date can be difficult but there are a few guidelines. There can not be
-two satRdays at the same time on the same geographical area. If there is a
+two satRdays at the same time in the same geographical area. If there is a
 satRday in Brussels you can not have one the next week in Amsterdam (they are both in Northwest Europe).
 You also need to think about other events: UseR!, Statistics conferences or
 other R/data science events, because those events draw from the same pool of attendees and speakers.
 
-We picked the date of september first, which was not ideal. Because it was summer holiday, we had trouble
+We picked the date of September first, which was not ideal. Because it was summer holiday, we had trouble
 contacting sponsors, promoting the event and finding speakers. We would
 generally advise against organizing such an event in the summer holidays.
 
 
-## How to find speakers:
-It's nice if you have a better known speaker  (keynote) for your event, that
+## How to find speakers
+It's nice if you have a better known speaker (keynote) for your event, that
 speaker will draw more people and possibly other speakers. You can contact speakers and/or you send out
 a call for papers. Don't forget to call upon people you know (even only vaguely).
 
@@ -115,7 +115,7 @@ the responses that people send in. We also used sessionize to send our speakers
 information, confirmation and modify their talk length. This worked really well.
 
 
-## How to promote the event:
+## How to promote the event
 You do not organize this event solely for yourself to listen to your favorite speakers,
 you want other people to enjoy those speakers as well. Think about your
 audience, who do you
@@ -127,7 +127,7 @@ groups, student associations, and professional organizations. Our audience was
 mostly beginners and novices with a few advanced useRs as well.
 
 
-## How to find sponsors:
+## How to find sponsors
 The satRdays are supposed to be cheap. But even so it helps if there is some
 money other than the money from the ticket sales. You can make list of things
 that can be sponsored: stickers, video, website advertisement, breakfast, goodies,
