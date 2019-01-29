@@ -65,7 +65,7 @@ paginate = 10
 
 [[menu.main]]
     name = "Get involved"
-    url  = "/involved/"
+    url  = "/contact/"
     weight = 5
 
 # Enable and disable widgets for the right sidebar
