@@ -3,8 +3,7 @@ title = "Events"
 +++
 
 # Future
-* [Washington DC 2018](https://dc2018.satrdays.org) - December 8th
-* [Santiago 2018](https://santiago2018.satrdays.org) - December 15th
+* [Los Angeles 2019](http://losangeles2019.satrdays.org) - April 6th
 * [Paris 2019](https://paris2019.satrdays.org/) - February 23th
 
 # Provisional
@@ -16,6 +15,8 @@ title = "Events"
 * Bratislava 2019 Q3
 
 # Past
+* [Washington DC 2018](https://dc2018.satrdays.org)
+* [Santiago 2018](https://santiago2018.satrdays.org)
 * [Belgrade 2018](https://belgrade2018.satrdays.org)
 * [Amsterdam 2018](https://amsterdam2018.satrdays.org)
 * [Cardiff 2018](http://cardiff2018.satrdays.org/)
