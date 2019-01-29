@@ -3,8 +3,9 @@ title = "Events"
 +++
 
 # Future
-* [Los Angeles 2019](http://losangeles2019.satrdays.org) - April 6th
 * [Paris 2019](https://paris2019.satrdays.org/) - February 23th
+* [Los Angeles 2019](http://losangeles2019.satrdays.org) - April 6th
+
 
 # Provisional
 * Newcastle 2019 Q1
@@ -12,6 +13,7 @@ title = "Events"
 * Johannesburg 2019 Q2
 * Gdansk 2019 Q2
 * Berlin 2019 Q2
+* Chicago 2019 Q2
 * Bratislava 2019 Q3
 
 # Past
