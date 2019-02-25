@@ -7,11 +7,12 @@ title = "Events"
 * [Los Angeles 2019](http://losangeles2019.satrdays.org) - April 6th
 * [Newcastle upon Tyne 2019](https://newcastle2019.satrdays.org/) - April 6th
 * [Johannesburg 2019](https://joburg2019.satrdays.org) - April 6th
+* [Gdansk 2019](https://gdansk2019.satrdays.org/) - May 18th
+
 
 # Provisional
 
 * Fez, Morocco 2019 Q1
-* Gdansk 2019 Q2
 * Berlin 2019 Q2
 * Chicago 2019 Q2
 * Bratislava 2019 Q3
