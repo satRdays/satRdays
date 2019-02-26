@@ -2,7 +2,7 @@
 title = "Events"
 +++
 
-<!-- Please consider adding your event https://github.com/jumpingrivers/meetingsR -->
+<!-- Please consider adding your event to  https://github.com/jumpingrivers/meetingsR -->
 
 # Future
 * [Paris 2019](https://paris2019.satrdays.org/) - February 23th
