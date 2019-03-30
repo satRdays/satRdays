@@ -15,10 +15,11 @@ title = "Events"
 
 # Provisional
 
-* Fez, Morocco 2019 Q1
-* Berlin 2019 Q2
-* Chicago 2019 Q2
+* Fez, Morocco 2019 Q2
+* Kampala, Uganda 2019 Q2
 * Bratislava 2019 Q3
+* Cardiff 2019 Q3
+* Auckland 2020 Q1
 
 # Past
 * [Paris 2019](https://paris2019.satrdays.org/)
