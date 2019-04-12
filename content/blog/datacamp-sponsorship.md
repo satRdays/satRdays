@@ -8,7 +8,7 @@ author = "Steph Locke"
 
 **TL;DR DataCamp will not be allowed to sponsor or affiliate with satRdays events for a period of one year, or until the C-suite executive who committed the sexual harassment steps down / is let go if that occurs sooner, and then we will re-evaluate their actions towards a safe, accountable culture.**
 
-The satRdays events were set to be an inclusive R event brand that enables communities around the world an easy framework to develop and celebrate their local R community. Diversity and safety at our events are vital principles that everyone commits to and works hard to achieve. We've had a great track record but...
+The satRdays events were setup to be an inclusive R event brand that enables communities around the world an easy framework to develop and celebrate their local R community. Diversity and safety at our events are vital principles that everyone commits to and works hard to achieve. We've had a great track record but...
 
 One of our past sponsors for some of the local events has been DataCamp. It came to our attention in December that there had been an dislosed incident of sexual assault performed by a senior member of the DataCamp team. We had a collective call to discuss how satRdays should handle such issues and we've opted for transparency of discussions and results. Our first step was to gather more information.
 
