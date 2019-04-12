@@ -27,3 +27,4 @@ For more information and takes on DataCamp's disclosure we recommend some of the
 - [R-Ladies Global's disapproval of DataCamp](https://blog.rladies.org/post/statement-about-datacamp/)
 - [Don’t Take My DataCamp Course, There Must be Consequences for Sexual Assault](https://noamross.github.io/datacamp-sexual-assault/)
 - [Women+ in ML/DS statement](https://twitter.com/wimlds/status/1115734798113300481)
+- [On DataCamp](https://medium.com/@heathernolis/on-datacamp-aafd82f94e60)
