@@ -6,7 +6,7 @@ categories = ["news"]
 author = "Steph Locke"
 +++
 
-**TL;DR DataCamp will not be allowed to sponsor or affiliate with satRdays events for a period of one year, or until the C-suite executive who committed the sexual harassment steps down / is let go if that occurs sooner, and then we will re-evaluate their actions towards a safe, accountable culture.**
+**TL;DR DataCamp will not be allowed to sponsor or affiliate with satRdays events**
 
 The satRdays events were setup to be an inclusive R event brand that enables communities around the world an easy framework to develop and celebrate their local R community. Diversity and safety at our events are vital principles that everyone commits to and works hard to achieve. We've had a great track record but...
 
@@ -16,8 +16,14 @@ We had a call with two members of DataCamp's team and pushed them for transparen
 
 Since then the DataCamp instructors picked up the torch on pushing for transparency and accountability with DataCamp. Their voices got DataCamp to [publicly acknowledge the incident](https://datacamp.com/community/blog/note-to-our-community) and outline some of their handling of it.
 
-We felt then, and still do, that DataCamp took insufficient action and they have sent the message that you can get away with sexual harassment if you're in a position of power. This is not a message we condone and it has no place at our events, even if just by our continued implicit endoresement of DataCamp through accepting sponsorship or material support from them.
+We felt then, and still do, that DataCamp took insufficient action and they have sent the message that you can get away with sexual assault and sexual harassment if you're in a position of power. This is not a message we condone and it has no place at our events, even if just by our continued implicit endoresement of DataCamp through accepting sponsorship or material support from them.
 
-Our proposed and agreed upon action is to not allow DataCamp, as a company, to have involvement with our events until the CXO steps down / is fired or until April 2020. When one of these end points is reached, we will then re-evaluate DataCamp's involvement based on their behaviours between now and then. DataCamp employees may still be accepted to speak at our events and will continue to be governed by the same Code of Conduct that all speakers, organisers, sponsors, and attendees are held to during our events and associated activites.
+Our proposed and agreed upon action is to not allow DataCamp, as a company, to have involvement with our events. DataCamp employees may still be accepted to speak at our events and will continue to be governed by the same Code of Conduct that all speakers, organisers, sponsors, and attendees are held to during our events and associated activites.
 
-On top of what do regarding DataCamp, this was an important moment of reflection for us as a community events group in pushing us to think about our governance, responsibilities, and behaviours. We are always trying to improve and one of the ways we believe we can do that is for satRdays to be not just a few voices, but a community, so we work out in the open on the [R UG leaders Slack](https://join.slack.com/t/rusergroups/shared_invite/enQtMjEyNDA3MzcyMjczLTE3NWEzNjQ3MjZiMWM0OGE2ZWFiZDliNTY4NTJjYWY1NGNjMmNlNDUzNzkzOTZmMDBjYjRiZjFhNjk4MDY0ZGY) and welcome new folks to get involved, engage with on topics like this, and even just see what we're up to.
+Companies can and do improve, so we acknowledge the need to have a robust framework in place for managing these investigations, determining outcomes, and reviewing them periodically. We will, at minimum, annually review any decisions to determine if they are still the right course of action. We will be working more on our governance structure in the coming months to help us continue to grow satRdays and we welcome more input into our processes as we go along that journey.
+
+For more information and takes on DataCamp's disclosure we recommend some of the following posts and twitter threads:
+
+- [R-Ladies Global's disapproval of DataCamp](https://blog.rladies.org/post/statement-about-datacamp/)
+- [Don’t Take My DataCamp Course, There Must be Consequences for Sexual Assault](https://noamross.github.io/datacamp-sexual-assault/)
+- [Women+ in ML/DS statement](https://twitter.com/wimlds/status/1115734798113300481)
