@@ -1,6 +1,6 @@
 +++
 title = "DataCamp sponsorship of satRdays events"
-date = "2019-04-15"
+date = "2019-04-14"
 tags = ["sponsorship", "safe events", "code of conduct"]
 categories = ["news"]
 author = "Steph Locke"
