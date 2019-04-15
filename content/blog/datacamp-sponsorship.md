@@ -29,4 +29,4 @@ For more information and takes on DataCamp's disclosure we recommend some of the
 - [Women+ in ML/DS statement](https://twitter.com/wimlds/status/1115734798113300481)
 - [On DataCamp](https://medium.com/@heathernolis/on-datacamp-aafd82f94e60)
 - [The Worst behaviour](http://third-bit.com/2019/04/05/the-worst-behavior.html)
-- []A note to our community on building trust(https://dhavide.github.io/a-note-to-our-commuity-on-building-trust.html)
+- [A note to our community on building trust](https://dhavide.github.io/a-note-to-our-commuity-on-building-trust.html)
