@@ -30,3 +30,4 @@ For more information and takes on DataCamp's disclosure we recommend some of the
 - [On DataCamp](https://medium.com/@heathernolis/on-datacamp-aafd82f94e60)
 - [The Worst behaviour](http://third-bit.com/2019/04/05/the-worst-behavior.html)
 - [A note to our community on building trust](https://dhavide.github.io/a-note-to-our-commuity-on-building-trust.html)
+- [An Exchange with DataCamp](http://third-bit.com/2019/04/15/an-exchange-with-datacamp.html)
