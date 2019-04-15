@@ -16,7 +16,7 @@ We had a call with two members of DataCamp's team and pushed them for transparen
 
 Since then the DataCamp instructors picked up the torch on pushing for transparency and accountability with DataCamp. Their voices got DataCamp to [publicly acknowledge the incident](https://datacamp.com/community/blog/note-to-our-community) and outline some of their handling of it.
 
-We felt then, and still do, that DataCamp took insufficient action and they have sent the message that you can get away with sexual assault and sexual harassment if you're in a position of power. This is not a message we condone and it has no place at our events, even if just by our continued implicit endoresement of DataCamp through accepting sponsorship or material support from them.
+We felt then, and still do, that DataCamp took insufficient action and they have sent the message that you can get away with sexual assault and sexual harassment if you're in a position of power. This is not a message we condone and it has no place at our events, even if just by our continued implicit endorsement of DataCamp through accepting sponsorship or material support from them.
 
 Our proposed and agreed upon action is to not allow DataCamp, as a company, to have involvement with our events. DataCamp employees may still be accepted to speak at our events and will continue to be governed by the same Code of Conduct that all speakers, organisers, sponsors, and attendees are held to during our events and associated activities.
 
