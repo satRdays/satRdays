@@ -5,9 +5,6 @@ title = "Events"
 <!-- Please consider adding your event to  https://github.com/jumpingrivers/meetingsR -->
 
 # Future
-* [Los Angeles 2019](http://losangeles2019.satrdays.org) - April 6th
-* [Newcastle upon Tyne 2019](https://newcastle2019.satrdays.org/) - April 6th
-* [Johannesburg 2019](https://joburg2019.satrdays.org) - April 6th
 * [Chicago 2019](https://chicago2019.satrdays.org) - April 27th
 * [Gdansk 2019](https://gdansk2019.satrdays.org/) - May 18th
 * [Berlin 2019](https://berlin2019.satrdays.org) - June 15th
@@ -20,8 +17,12 @@ title = "Events"
 * Bratislava 2019 Q3
 * Cardiff 2019 Q3
 * Auckland 2020 Q1
+* Newcastle upon Tyne, UK 2020 Q2
 
 # Past
+* [Los Angeles 2019](http://losangeles2019.satrdays.org)
+* [Newcastle upon Tyne 2019](https://newcastle2019.satrdays.org/)
+* [Johannesburg 2019](https://joburg2019.satrdays.org)
 * [Paris 2019](https://paris2019.satrdays.org/)
 * [Washington DC 2018](https://dc2018.satrdays.org)
 * [Santiago 2018](https://santiago2018.satrdays.org)
