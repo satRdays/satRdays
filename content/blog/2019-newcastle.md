@@ -16,7 +16,7 @@ In April this year, the first SatRday Newcastle event was held. In this post you
 
 ## How to find speakers
 
-We were lucky to get three excellent key note speakers, which I think really helped pull in attendees. Sometimes, reaching out to big names can be a little daunting, so try and think of connections you have things you have in common and use communities such as R-Ladies or a Slack channel to reach out. 
+We were lucky to get three excellent key note speakers, which I think really helped pull in attendees. Sometimes, reaching out to big names can be a little daunting, so try and think of connections you have, things you have in common and use communities such as R-Ladies or a Slack channel to reach out. 
 
 ## How to find sponsors
 
