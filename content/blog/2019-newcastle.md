@@ -45,16 +45,14 @@ As you can see, the response was overwhelmingly positive. All attendees agreed t
 
 Many people suggested the addition of hands-on workshops. As this was our first time running SatRday Newcastle we wanted to keep things simple, but this is certainly something we will consider for next year. 
 
-Feedback from attendees suggests that having registration at 8:50am was a little too early. Perhaps, having a slighly later start would accomodamte people travelling from afar to attend.
+Feedback from attendees suggests that having registration at 8:50am was a little too early. Perhaps, having a slightly later start would accommodate people travelling from afar to attend.
 
-
-More coffee! More biscuits! Pastries for breakfast! We put on coffee breaks and a buffet lunch included as part of the day. A couple of people later told us their dietry requirements were not catered for and they had to miss out on some networking in order to pop out and buy lunch.
-
+More coffee! More biscuits! Pastries for breakfast! We put on coffee breaks and a buffet lunch included as part of the day. A couple of people later told us their dietary requirements were not catered for and they had to miss out on some networking in order to pop out and buy lunch.
 In order to keep the conference fees as low as possible, I don't think we can change much about the refreshments. I think the lesson here is to communicate clearly what will be on offer to set expectations in advance. Also, allowing people to select dietary requirements in advance will ensure they are better catered for. 
 
 ## Favourite things
 
-We also asked attendees to tell us their favourite thing about SatRday Newcastle. As expected, many people said they really enjoyed the quality of our keynote speakers, in particular [Thomas Lin Pedersen's amusing talk](https://github.com/satRdays/newcastle2019-slides). Other people commented on the diversity and variety of talks. Interestingly the most common comment was about the relaxed, welcoming and friendly atmosphere. People appreciated having the time to network and enjoyed the chilled, comfortable environment. They also said the organisers were really friendly and helpful, so a big thank you to everyone from the SatRday Newcastle 2019 team. 
+We also asked attendees to tell us their favourite thing about SatRday Newcastle. As expected, many people said they really enjoyed the quality of our keynote speakers, in particular [Thomas Lin Pedersen's amusing talk](https://github.com/satRdays/newcastle2019-slides). Other people commented on the excellent diversity and variety of talks. Interestingly, the most common response was about the relaxed, welcoming and friendly atmosphere. People appreciated having the time to network and enjoyed the chilled, comfortable environment. They also said the organisers were really friendly and helpful, so a big thank you to everyone from the SatRday Newcastle 2019 team. 
 
 # Closing remarks
 We had so much fun at SatRday Newcastle 2019, that we've already started planning the next one! 
