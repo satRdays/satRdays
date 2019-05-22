@@ -16,13 +16,13 @@ In April this year, the first SatRday Newcastle event was held. In this post you
 
 ## How to find speakers
 
-We were lucky to get three excellent key note speakers, which I think really helps pull in attendees. Sometimes reaching out to big names can be a little daunting, so try and think of things you have in common and use communities such as R-Ladies or a Slack channel to reach out. 
+We were lucky to get three excellent key note speakers, which I think really helped pull in attendees. Sometimes, reaching out to big names can be a little daunting, so try and think of connections you have things you have in common and use communities such as R-Ladies or a Slack channel to reach out. 
 
 ## How to find sponsors
 
-We were lucky to get three great sponsors, [Jumping Rivers](https://www.jumpingrivers.com), [Newcastle University](https://www.ncl.ac.uk/) and [Sage](https://www.sage.com).
+Our event was sponsored by [Jumping Rivers](https://www.jumpingrivers.com), [Newcastle University](https://www.ncl.ac.uk/) and [Sage](https://www.sage.com).
 
-If you don't ask you don't get so it's always worth asking your local companies. It's also useful to look at who has sponsored similar events in your area, and reach out to see if they'll sponsor you too. Be clear about what you are offering them (banner space, logos on the website, a trade stand?) and the audience that you are likely to have. 
+With sponsors, if you don't ask you don't get so it's always worth asking your local companies with an interest in supporting the community. It's also useful to look at who has sponsored similar events in your area, and reach out to see if they'll sponsor you too. Be clear about what you are offering them (banner space, logos on the website, a trade stand?) and the audience that you are likely to have. 
 
 It's worth noting that [Jumping Rivers](https://www.jumpingrivers.com) gives a guaranteed £100 sponsorship to all SatRdays conference. Just complete the [form on our website. ](https://www.jumpingrivers.com/q/satrdays/)
 
@@ -35,30 +35,27 @@ One of the attendees got in touch before the conference to say that she was plan
 
 # Feedback from attendees
 
-Shortly after the event, we sent a survery o attendees to collect feedback. We had a 45% response rate, which I think is pretty good. We asked attendees to answer questions on a scale of 1-7, where 1 was a strongly negative response 7 was strongly positive. Here's a quick plot of the general feedback.
+Shortly after the event, we sent out a survery to attendees and 45% of attendees responded. We asked them to answer questions on a scale of 1-7, where 1 was a strongly negative response 7 was strongly positive. Here's a quick plot of the general feedback.
 
 ![Ratings Chart](/blog/newcastle-responses.png)
 
-As you can see, the response was overwheminlgly positive. All attendees agreed that the conference was good value for money, and 70% said they were "Extremely likeley o recommend to a friend".
+As you can see, the response was overwhelmingly positive. All attendees agreed that the conference was good value for money, and 70% said they were "Extremely likely to recommend to a friend".
 
 ## Suggestions for improvement
 
 Many people suggested the addition of hands-on workshops. As this was our first time running SatRday Newcastle we wanted to keep things simple, but this is certainly something we will consider for next year. 
 
-The early start. The conference registration was at 8:50am. Feedback from attendees suggests that this was a little too early. Perhaps having a slighly tlater start would accomodamte people travelling to attend.
+Feedback from attendees suggests that having registration at 8:50am was a little too early. Perhaps, having a slighly later start would accomodamte people travelling from afar to attend.
 
-More coffee! More biscuits! Pastries for breakfast!
 
-We put on coffee breaks and a buffet lunch included as part of the day. We didn't collect dietry arequirements in advance but the lunch had plenty of vegetarian and vegan options. A couple of people reaching out saying that their dietry ary requirements were not catered for and they had to miss out on some networking in order to pop out and buy lunch.
+More coffee! More biscuits! Pastries for breakfast! We put on coffee breaks and a buffet lunch included as part of the day. A couple of people later told us their dietry requirements were not catered for and they had to miss out on some networking in order to pop out and buy lunch.
 
-In order to keep the conference fees as low as possible, I don't think we can change much about the refreshments. I think the lesson here is to communicate clearly what will be on offer to set expectations in advance. Also, allowing people to select dietarequirements when they sign up will ensure they are better catered for. 
+In order to keep the conference fees as low as possible, I don't think we can change much about the refreshments. I think the lesson here is to communicate clearly what will be on offer to set expectations in advance. Also, allowing people to select dietary requirements in advance will ensure they are better catered for. 
 
 ## Favourite things
 
-We also asked attendees to tell us their favourite thing about the SatRday. A number of people said they really enjoyed the quality of our keynote speakers. Other people commented on the diversity and variety of talks. Interestingly the most common comment was about the relaxed, welcoming and friendly atmosphere  People apprechiaed having the time to network and they said that whole event was chilled and comfortable. They also said the organisers were really friendly and helpful, so a big thank you to everyone from the SatRday Newcastle 2019 team. 
-
+We also asked attendees to tell us their favourite thing about SatRday Newcastle. As expected, many people said they really enjoyed the quality of our keynote speakers, in particular [Thomas Lin Pedersen's amusing talk](https://github.com/satRdays/newcastle2019-slides). Other people commented on the diversity and variety of talks. Interestingly the most common comment was about the relaxed, welcoming and friendly atmosphere. People appreciated having the time to network and enjoyed the chilled, comfortable environment. They also said the organisers were really friendly and helpful, so a big thank you to everyone from the SatRday Newcastle 2019 team. 
 
 # Closing remarks
 We had so much fun at SatRday Newcastle 2019, that we've already started planning the next one! 
-
 [SatRday Newcastle 2020](https://newcastle2020.satrdays.org) will be on April 4th 2020. Hope to see you there! 
