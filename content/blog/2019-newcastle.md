@@ -33,10 +33,31 @@ The feedback we recieved for this was really positive, and I would encorage futu
 
 [Jumping Rivers](https://www.jumpingrivers.com) gives a guaranteed £100 sponsorship to all SatRdays conference. Just complete https://www.jumpingrivers.com/q/satrdays/ 
 
-# What did our visitors think of the event?
+# Feedback from attendees
 
-## Breakdown of typeform answers
+Shortly after the event, we sent a short survery to attendees to collect feedback.
+
+## General feedback
+
+Here's a quick plot of the general feedback. We asked attendees to answer the following questions from 1-7 where 7 was a strongly positive response ("Extrememly likely/useful) and 1 was strongly negative. ("Not atall likely/useful).
+
+
+## Favourite things
+
+Keynotes, variety of talks, atmosphere "friendly, chilled, relaxed, comfortable"
+
+## Suggestions for improvement
+
+Workshops/interactive sessions
+
+Timings
+
+Food - set expectations  labelling vegan (coeliac, vegetarian), communication
+There were no provisions for dietary requirements (gluten free, lactose free) this is really frustrating when I've paid just as much as everyone else but I have to go and get my own lunch elsewhere - also meaning that I missed out on time chatting to other attendees. Put something in the registration form so that you can cater for these kinds of things. 
+Collect special dietary info from participants 
+
+Perhaps include an online crib sheet for those who are newer to the language, then have a symbol and a number on the presentation when there is a technical phrase/jargon so people can quickly understand what a particular thing is
 
 # Closing remarks
-We had so much fun at SatRday Newcastle 2019, that we've already started planning the next one!
+We had so much fun at SatRday Newcastle 2019, that we've already started planning the next one! 
 [SatRday Newcastle 2020](https://newcastle2020.satrdays.org) will be on April 4th. Hope to see you there!
