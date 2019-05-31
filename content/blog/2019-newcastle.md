@@ -7,7 +7,7 @@ banner = ""
 author = "Rhian Davies"
 +++
 
-In April this year, the first SatRday Newcastle event was held. In this post you will find:
+In April this year, the first SatRday Newcastle event was held. The [talks](https://www.youtube.com/playlist?list=PLQRHxIa9tfRtnjJ8Z97EPJOvPweHtDvAj), [slides](https://github.com/satRdays/newcastle2019-slides/) and [programme](https://newcastle2019.satrdays.org/) are available online. In this post you will find:
 
 - Things we learnt whilst planning the event.
 - What we learnt from our feedback. 
@@ -16,7 +16,7 @@ In April this year, the first SatRday Newcastle event was held. In this post you
 
 ## How to find speakers
 
-We were lucky to get three excellent key note speakers, which I think really helped pull in attendees. Sometimes, reaching out to big names can be a little daunting, so try and think of connections you have, things you have in common and use communities such as R-Ladies or a Slack channel to reach out. 
+We were lucky to get three excellent keynote speakers, which I think really helped pull in attendees. Sometimes, reaching out to big names can be a little daunting, so try and think of connections you have, things you have in common and use communities such as R-Ladies or a Slack channel to reach out. 
 
 ## How to find sponsors
 
@@ -54,5 +54,6 @@ More coffee! More biscuits! Pastries for breakfast! We put on coffee breaks and 
 We also asked attendees to tell us their favourite thing about SatRday Newcastle. As expected, many people said they really enjoyed the quality of our keynote speakers, in particular [Thomas Lin Pedersen's amusing talk](https://github.com/satRdays/newcastle2019-slides). Other people commented on the excellent diversity and variety of talks. Interestingly, the most common response was about the relaxed, welcoming and friendly atmosphere. People appreciated having the time to network and enjoyed the chilled, comfortable environment. They also said the organisers were really friendly and helpful, so a big thank you to everyone from the SatRday Newcastle 2019 team. 
 
 # Closing remarks
+
 We had so much fun at SatRday Newcastle 2019, that we've already started planning the next one! 
 [SatRday Newcastle 2020](https://newcastle2020.satrdays.org) will be on April 4th 2020. Hope to see you there! 
