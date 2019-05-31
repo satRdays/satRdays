@@ -1,6 +1,6 @@
 +++
 title = "Thoughts from SatRdays Newcastle 2019"
-date = "2019-05-31"
+date = "2019-06-03"
 tags = ["newcastle"]
 categories = ["conference"]
 banner = ""
@@ -20,7 +20,7 @@ We were lucky to get three excellent key note speakers, which I think really hel
 
 ## How to find sponsors
 
-Our event was sponsored by [Jumping Rivers](https://www.jumpingrivers.com), [Newcastle University](https://www.ncl.ac.uk/) and [Sage](https://www.sage.com).
+Our event was sponsored by [Jumping Rivers](https://www.jumpingrivers.com), [Newcastle University](https://www.ncl.ac.uk/), [Sage](https://www.sage.com) and [RStudio](https://www.rstudio.com/).
 
 With sponsors, if you don't ask you don't get so it's always worth asking your local companies with an interest in supporting the community. It's also useful to look at who has sponsored similar events in your area, and reach out to see if they'll sponsor you too. Be clear about what you are offering them (banner space, logos on the website, a trade stand?) and the audience that you are likely to have. 
 
@@ -45,10 +45,9 @@ As you can see, the response was overwhelmingly positive. All attendees agreed t
 
 Many people suggested the addition of hands-on workshops. As this was our first time running SatRday Newcastle we wanted to keep things simple, but this is certainly something we will consider for next year. 
 
-Feedback from attendees suggests that having registration at 8:50am was a little too early. Perhaps, having a slightly later start would accommodate people travelling from afar to attend.
+Feedback from attendees suggests that having registration at 8:50am was a little too early. We intentionally chose an early registration so that attendees would be able to go home on the Saturday evening. However, perhaps having a slightly later start would accommodate people travelling from afar to attend.
 
-More coffee! More biscuits! Pastries for breakfast! We put on coffee breaks and a buffet lunch included as part of the day. A couple of people later told us their dietary requirements were not catered for and they had to miss out on some networking in order to pop out and buy lunch.
-In order to keep the conference fees as low as possible, I don't think we can change much about the refreshments. I think the lesson here is to communicate clearly what will be on offer to set expectations in advance. Also, allowing people to select dietary requirements in advance will ensure they are better catered for. 
+More coffee! More biscuits! Pastries for breakfast! We put on coffee breaks and a a basic buffet lunch included as part of the day. In order to keep the conference fees as low as possible, I don't think we can change much about the refreshments. I think the lesson here is to communicate clearly what will be on offer to set expectations in advance. For next year's conference we'll also make sure we allow attendees to dietary requirements in advance will ensure they are better catered for. 
 
 ## Favourite things
 
