@@ -47,7 +47,7 @@ Many people suggested the addition of hands-on workshops. As this was our first 
 
 Feedback from attendees suggests that having registration at 8:50am was a little too early. We intentionally chose an early registration so that attendees would be able to go home on the Saturday evening. However, perhaps having a slightly later start would accommodate people travelling from afar to attend.
 
-More coffee! More biscuits! Pastries for breakfast! We put on coffee breaks and a a basic buffet lunch included as part of the day. In order to keep the conference fees as low as possible, I don't think we can change much about the refreshments. I think the lesson here is to communicate clearly what will be on offer to set expectations in advance. For next year's conference we'll also make sure we allow attendees to dietary requirements in advance will ensure they are better catered for. 
+More coffee! More biscuits! Pastries for breakfast! We put on coffee breaks and a a basic buffet lunch included as part of the day. In order to keep the conference fees as low as possible, I don't think we can change much about the refreshments. I think the lesson here is to communicate clearly what will be on offer to set expectations in advance. For next year's conference we'll also make sure we allow attendees to select their dietary requirements in advance to ensure that they are catered for. 
 
 ## Favourite things
 
