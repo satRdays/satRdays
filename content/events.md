@@ -5,10 +5,7 @@ title = "Events"
 <!-- Please consider adding your event to  https://github.com/jumpingrivers/meetingsR -->
 
 # Future
-
-* [Gdansk 2019](https://gdansk2019.satrdays.org/) - May 18th
-* [Kampala 2019](https://kampala2019.satrdays.org) - May 25th
-* [Berlin 2019](https://berlin2019.satrdays.org) - June 15th
+*
 
 
 # Provisional
@@ -20,6 +17,9 @@ title = "Events"
 * Newcastle upon Tyne, UK 2020 Q2
 
 # Past
+1. [Berlin 2019](https://berlin2019.satrdays.org) 
+1. [Kampala 2019](https://kampala2019.satrdays.org) 
+1. [Gdansk 2019](https://gdansk2019.satrdays.org/) 
 1. [Chicago 2019](https://chicago2019.satrdays.org)
 1. [Los Angeles 2019](http://losangeles2019.satrdays.org)
 1. [Newcastle upon Tyne 2019](https://newcastle2019.satrdays.org/)
