@@ -10,13 +10,12 @@ title = "Events"
 
 # Provisional
 
-* Fez, Morocco 2019 Q2
-* Bratislava 2019 Q3
-* Cardiff 2019 Q3
-* Auckland 2020 Q1
+* Auckland, New Zealand 2020 Q1
+* Neuchâtel, Switzerland 2020 Q1
 * Newcastle upon Tyne, UK 2020 Q2
 
 # Past
+1. [Cardiff 2019](https://cardiff2019.satrdays.org/)
 1. [Berlin 2019](https://berlin2019.satrdays.org) 
 1. [Kampala 2019](https://kampala2019.satrdays.org) 
 1. [Gdansk 2019](https://gdansk2019.satrdays.org/) 
