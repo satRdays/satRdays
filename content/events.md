@@ -5,16 +5,15 @@ title = "Events"
 <!-- Please consider adding your event to  https://github.com/jumpingrivers/meetingsR -->
 
 # Future
-*
 
-
-# Provisional
-
-* Auckland, New Zealand 2020 Q1
-* Neuchâtel, Switzerland 2020 Q1
-* Newcastle upon Tyne, UK 2020 Q2
+* [Auckland, New Zealand](https://auckland2020.satrdays.org/) 2020 Q1
+* [Neuchâtel, Switzerland](https://neuchatel2020.satrdays.org/,) 2020 Q1
+* [Newcastle upon Tyne, UK](https://newcastle2020.satrdays.org) 2020 Q2
+* [Taipei, Taiwan](https://taiwan2020.satrdays.org/) 2020 Q2
 
 # Past
+1. [Abidjan 2020](https://abidjan2020.satrdays.org/)
+1. [Amsterdam 2020](https://amsterdam2020.satrdays.org/)
 1. [Cardiff 2019](https://cardiff2019.satrdays.org/)
 1. [Berlin 2019](https://berlin2019.satrdays.org) 
 1. [Kampala 2019](https://kampala2019.satrdays.org) 
