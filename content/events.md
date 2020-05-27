@@ -10,6 +10,7 @@ title = "Events"
 * [Neuchâtel, Switzerland](https://neuchatel2020.satrdays.org/,) 2020 Q1
 * [Newcastle upon Tyne, UK](https://newcastle2020.satrdays.org) 2020 Q2
 * [Taipei, Taiwan](https://taiwan2020.satrdays.org/) 2020 Q2
+* [Chicago, IL, USA](https://chicago2020.satrdays.org/) 2020 Q2
 
 # Past
 1. [Abidjan 2020](https://abidjan2020.satrdays.org/)
