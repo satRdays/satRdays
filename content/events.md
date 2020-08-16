@@ -9,7 +9,7 @@ title = "Events"
 * [Auckland, New Zealand](https://auckland2020.satrdays.org/) 2020 Q1
 * [Neuchâtel, Switzerland](https://neuchatel2020.satrdays.org/,) 2020 Q1
 * [Newcastle upon Tyne, UK](https://newcastle2020.satrdays.org) 2020 Q2
-* [Taipei, Taiwan](https://taiwan2020.satrdays.org/) 2020 Q2
+* [Taipei, Taiwan](https://taiwan2020.satrdays.org/) 2020 Q4
 * [Chicago, IL, USA](https://chicago2020.satrdays.org/) 2020 Q2
 
 # Past
