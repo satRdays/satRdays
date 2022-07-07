@@ -6,7 +6,7 @@ categories = ["conference"]
 author = "Amy Tzu-Yu Chen"
 +++
 
-*This post was originally shared on the [Amy's blog](https://amy17519.me/post/2019/04/25/how-to-organize-a-satrday-la-conference/).*
+*This post was originally shared on [Amy's blog](https://amy17519.me/post/2019/04/25/how-to-organize-a-satrday-la-conference/).*
 
 
 With lots of help, I organized the inaugural SatRday LA conference at UCLA Alumni Center on April 6, 2019. I promised myself (and publicly on a Slack —> I guess this is really why I am posting now) to write a blogpost about my organizing experience. First of all, what I am about to talk about are just how we decided to organize a SatRday and you are free to organize SatRday in any way you like, as long as you don’t violate [SatRday Org’s important requirements](https://knowledgebase.satrdays.org/organising/).
