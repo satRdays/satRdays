@@ -10,7 +10,7 @@ author = "Agueda Gama"
 
 
 
-![main speakers image](mainimage-francophone.png "main speakers image")
+![main speakers image](/blog/mainimage-francophone.png "main speakers image")
 
 
 The next Francophone SatRday Conference will be Saturday, August 6, at 9 am UTC, and will cover Using R for Data Science and Epidemiology. Join experts Cheikh Fall, Ehouman Evans, Marie Ruth DAGO (Intro to R), and Aminata Ndiaye (R in Epidemiology) to better understand how to use applications using the R Language for data science, epidemiology, and more. The event will be held in French.
