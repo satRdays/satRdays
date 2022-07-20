@@ -23,7 +23,7 @@ The next Francophone SatRday Conference will be Saturday, August 6, at 9 am UTC,
 
 
 #### Marie Ruth Dago
-![marie-ruth-dago image](marie-ruth-dago.png "marie ruth dago image")
+![marie-ruth-dago image](/blog/marie-ruth-dago.png "marie ruth dago image")
 
 
 Marie Ruth Dago is a Ph.D. student in Agroforestry at the Polytechnic Doctoral School of INP-HB (Yamoussoukro, Ivory Coast). She is generally interested in landscape restoration projects of degraded post-forests. Their current research focuses on sustainability of non-timber forest products present in agroforestry systems. Marie Ruth has been increasingly active in the data science community and has been using R for 2 years. 
@@ -31,7 +31,7 @@ Marie Ruth Dago is a Ph.D. student in Agroforestry at the Polytechnic Doctoral S
 Topic: “Unsupervised Classification with the K Means Method” 
 
 #### Ehouman Evans
-![ehouman-evans image](ehouman-evans.png "ehouman evans image")
+![ehouman-evans image](/blog/ehouman-evans.png "ehouman evans image")
 
 
 Ehouman Evans is a Doctor of Botany. He obtained his doctorate from the University Nangui Abrogoua (Abidjan, Ivory Coast). He is interested in floristic diversity as a way to improve the quality of life of people. He also campaigns for the improvement of living conditions through training and the acquisition of knowledge and various skills. He is passionate about collecting and analyzing data from R using RStudio. He is based at the INP HB (Institut National Félix  Houphouët-Boigny, Yamoussoukro, Côte d'Ivoire) from where he works with CIRAD (Center for Cooperation International in Agricultural Research for Development) on research projects forest plantations and soil preservation. 
