@@ -22,7 +22,7 @@ The next Francophone SatRday Conference will be Saturday, August 6, at 9 am UTC,
 ## About the Speakers
 
 
-
+#### Marie Ruth Dago
 ![marie-ruth-dago image](marie-ruth-dago.png "marie ruth dago image")
 
 
@@ -30,7 +30,7 @@ Marie Ruth Dago is a Ph.D. student in Agroforestry at the Polytechnic Doctoral S
 
 Topic: “Unsupervised Classification with the K Means Method” 
 
-
+#### Ehouman Evans
 ![ehouman-evans image](ehouman-evans.png "ehouman evans image")
 
 
@@ -38,13 +38,15 @@ Ehouman Evans is a Doctor of Botany. He obtained his doctorate from the Universi
 
 Topic: “Reproducible Research with R” 
 
-Aminata Ndiaye
+#### Aminata Ndiaye
 
 Aminata Ndiaye is a data scientist at [Applied Epi](https://appliedepi.org/). 
 
 Topic: “R in Epidemiology”
 
-Khalid Lemzouji - TBD
+#### Khalid Lemzouji
+
+_Information not currently available._
 
 
 ## What are SatRdays? 
