@@ -3,7 +3,6 @@ title = "Thoughts from SatRdays Newcastle 2019"
 date = "2019-05-31"
 tags = ["newcastle"]
 categories = ["conference"]
-banner = ""
 author = "Rhian Davies"
 +++
 
