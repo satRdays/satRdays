@@ -5,9 +5,11 @@ title = "Events"
 <!-- Please consider adding your event to  https://github.com/jumpingrivers/meetingsR -->
 
 # Future
-* [Francophone SatRday Conference](https://satrdays.org/blog/2022/07/20/2022-francophone/) 2022 Q3
 
-# Past
+Help us plan the next satRdays event!
+
+# Previous events
+* [Francophone SatRday Conference](https://satrdays.org/blog/2022/07/20/2022-francophone/) 2022 Q3
 * [Auckland, New Zealand](https://auckland2020.satrdays.org/) 2020 Q1
 * [Neuchâtel, Switzerland](https://neuchatel2020.satrdays.org/,) 2020 Q1
 * [Newcastle upon Tyne, UK](https://newcastle2020.satrdays.org) 2020 Q2
